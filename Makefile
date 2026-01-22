@@ -1,7 +1,5 @@
 # Makefile for ClassChat Project
 # Author: Md Farukuzzaman Faruk
-# ULID: C00605733
-# Course: CSCE-513, Fall 2025
 # University of Louisiana at Lafayette
 
 # Python interpreter
